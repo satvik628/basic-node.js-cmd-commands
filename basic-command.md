@@ -25,14 +25,24 @@ You can check the installation by opening Command Prompt (on Windows) or Termina
 
 Node JS details by wikipedia :--
 
-Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. Wikipedia
+Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. 
+
+Wikipedia
+
 License: MIT License
+
 Initial release: May 27, 2009; 12 years ago
+
 Stable release: 16.7.0 / August 17, 2021; 20 days ago
+
 Operating system: z/OS, Linux, macOS, Microsoft Windows, SmartOS, FreeBSD, OpenBSD, IBM AIX
+
 Repository: github.com/nodejs/node
+
 Programming languages: JavaScript, C, C++, CoffeeScript
+
 Developer: Microsoft Corporation, Ryan Dahl, OpenJS Foundation, Bryan Cantrill
+
 
 
 
